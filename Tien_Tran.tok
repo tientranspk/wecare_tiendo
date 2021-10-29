@@ -1,0 +1,64 @@
+/*
+This token file was created using Google Sheets Token Generator.
+*/
+
+{
+  "_about": {
+    "created_at": "2021-10-14T04:26:59.9010698Z",
+    "updated_at": "2021-10-14T16:28:57.6428035Z",
+    "use_in_app_authentication_on_import": false
+  },
+  "access_token": "skDTJEwzGcA5eiC5Ag3uwsnLNvn294TAM6OlrgEG/jvj+Zw6dCX23ZBKdj4FaO2XlIgR6JsOWj1osAJI21PK/c5KlDcOAT4tE90Kmffzf9aHWyi9x/KSdikpoBHycBrrV0IO5RfSOYyWFvPmmenWJRkevM3T7gk96NK9TRvPiUxbA7tIMTi4eqBcpP7BcZFnrZqla3tz47zCskrYeMrA8q6mYdBdJb3QtwsQIdYvqJw=",
+  "account_id": "117821592369595322388",
+  "account_name": "Tien Tran",
+  "client_assertion": {
+    "additional_claims": []
+  },
+  "client_id": "877237734847-vlr2qc4fqs99e7skjev6v14vsjt72q6v.apps.googleusercontent.com",
+  "client_secret": "ahYoDMHoXff2WaswIGkeJk2IHN+KYZ3HGGc1V/oXZMI=",
+  "developer_token": "MYc5-swD_HylDgJf4gJZEQ",
+  "expiry": "2021-10-14T17:28:46.6417984Z",
+  "manual_token_expiry_time_unit": "Hours",
+  "redirect_uri": "urn:ietf:wg:oauth:2.0:oob",
+  "refresh_token": "wjoh57BCVn8Rc0eLVWdmWURBkGJVdfbcDWU+F/bP6LDxhAFOsLlzR48U/zM3sSbGvQLh+ONXQ1et88OCWhEMjmeEmVKzDj5BIgM9vyhTawBIFDNp3/P2Wcu4z1A9vKkluiYChgAOe5EenyKjJQj0Cw==",
+  "refresh_tokens_strategy": {
+    "additional_parameters": [],
+    "base_url": "https://www.googleapis.com/oauth2/v4/token",
+    "grant_type": "refresh_token",
+    "headers": [
+      {
+        "name": "Content-Type",
+        "value": "application/x-www-form-urlencoded"
+      },
+      {
+        "name": "Accept",
+        "value": "application/json"
+      }
+    ]
+  },
+  "request_tokens_strategy": {
+    "additional_parameters": [],
+    "base_url": "https://www.googleapis.com/oauth2/v4/token",
+    "grant_type": "authorization_code",
+    "headers": [
+      {
+        "name": "Content-Type",
+        "value": "application/x-www-form-urlencoded"
+      },
+      {
+        "name": "Accept",
+        "value": "application/json"
+      }
+    ]
+  },
+  "sign_in_strategy": {
+    "additional_parameters": [
+      {
+        "name": "response_type",
+        "value": "code"
+      }
+    ],
+    "base_url": "https://accounts.google.com/o/oauth2/v2/auth",
+    "scope": "https://www.googleapis.com/auth/spreadsheets openid profile"
+  }
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TienDoWecare", "TienDoWecare\TienDoWecare.dtproj", "{FA66200D-CEA1-45A8-AD1F-6723E0157F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA66200D-CEA1-45A8-AD1F-6723E0157F5A}.Development|Default.ActiveCfg = Development
+		{FA66200D-CEA1-45A8-AD1F-6723E0157F5A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33802616-5664-4246-84B6-1D076370D4F4}
+	EndGlobalSection
+EndGlobal
